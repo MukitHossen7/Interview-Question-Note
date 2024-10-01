@@ -12,6 +12,7 @@
 10. Tell us the different between for..of and for..in.                                                                                      
                                                                                       
  ** COMMON ES6 INTERVIEW QUESTIONS 2**
+ 
  1. What's the difference between map , foreach ,filter?
  2. What's the difference between filter and find?
  3. What's the difference between for...of and for...in?
@@ -22,5 +23,16 @@
  8. Is optional chaining is same as ternary operator?
  9. What do you mean by dot notation and bracket notation? When should you use dot notation or bracket notation?
 
- ** COMMON ES6 INTERVIEW QUESTIONS 2**
-
+ ** COMMON API INTERVIEW QUESTIONS 3**
+ 
+1.What is an api?
+2.What are the  HTTP methods supported by REST?
+3.Can you use GET resquest instead of PUT to create a resource?
+4.What is the difference between PUT and POST?
+5.What is JSON?
+6.What are CRUD operations?
+7.What is the file extension of JSON?
+8.What are the data types supported by JSON?
+9.What is the role of JSON.stringify?
+10.Show how to parse a JSON.
+11.Tell us the difference between GET and POST?
