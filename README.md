@@ -21,3 +21,6 @@
  7. What does destructing do in es6?
  8. Is optional chaining is same as ternary operator?
  9. What do you mean by dot notation and bracket notation? When should you use dot notation or bracket notation?
+
+ ** COMMON ES6 INTERVIEW QUESTIONS 2**
+
