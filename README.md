@@ -37,7 +37,7 @@
 10.Show how to parse a JSON.
 11.Tell us the difference between GET and POST?
 
-** COMMON JAVASCRIPT INTERVIEW QUESTIONS 3**
+** COMMON JAVASCRIPT INTERVIEW QUESTIONS 4**
 
 1.Tell me something about JS engine v8 internal mechanism?
 2.What is event loop in JavaScript?
