@@ -40,4 +40,9 @@
 ** COMMON JAVASCRIPT INTERVIEW QUESTIONS 3**
 
 1.Tell me something about JS engine v8 internal mechanism?
-2.What is event loop in JavaScript
+2.What is event loop in JavaScript?
+3.If javascript is single threaded,how does it handle asynchronous call?
+4.Difference between setTimeOut and SetInterval
+5.Can you explain the difference between an async/await and promise?
+6.What the error handling strategy for promises that were rejected while awaiting ?
+7.Can you explain what th .then() method does?
